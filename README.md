@@ -1,1 +1,2 @@
-# restapi_php
+# restapi php
+Entendendo conceitos do paradigma
