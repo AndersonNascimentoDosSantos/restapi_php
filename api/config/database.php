@@ -5,7 +5,7 @@ class Database{
     private $host = "192.168.0.30";
     private $db_name = "api_db";
     private $username = "apidb";
-    private $password = "Pro@1974";
+    private $password = "suasenha";
     public $conn;
  
     // get the database connection
